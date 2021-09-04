@@ -30,7 +30,7 @@ services:
     environment: 
       MYSQL_HOST: mysql
       MYSQL_USER: root 
-      MYSQL_ROOT_PASSWORD: tom1130
+      MYSQL_ROOT_PASSWORD: harvey1130
       MYSQL_DATABASE: myapp
       MYSQL_PORT: 3306   
       
